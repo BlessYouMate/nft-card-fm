@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution/Live Site URL: [Add solution URL here](https://blessyoumate.github.io/nft-card-fm/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-using-css-h5mPNCn4p1)
+- Live Site URL: [Live Site](https://blessyoumate.github.io/nft-card-fm/)
 
 ## My process
 
